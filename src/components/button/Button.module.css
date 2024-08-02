@@ -1,0 +1,11 @@
+.btn {
+    background-color: aquamarine;
+}
+
+.btn:hover {
+    cursor: pointer;
+}
+
+.btn:active {
+    background-color: blueviolet;
+}
